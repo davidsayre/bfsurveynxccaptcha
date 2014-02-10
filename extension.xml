@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<software>
+   <dependencies>
+       <extends>
+           <extension name="bfsurveynxccaptcha" />
+       </extends>
+   </dependencies>
+   <metadata>
+       <name>Beaconfire Survey NXC Captcha</name>
+       <version>1.0</version>
+       <copyright>Copyright (C) 2014 Beaconfire Consulting</copyright>
+       <license>GNU General Public License v2.0</license>
+   </metadata>
+</software>
